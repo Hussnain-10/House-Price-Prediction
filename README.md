@@ -33,9 +33,6 @@ Model are evaluated using:
 - MSE (Mean Squared Error)
 - MAE (Mean Absolute Error)
 Example Comparison :
-## 🏆 Model Evaluation
-
-Models were evaluated using:
 
 - **R² Score** (higher is better)
 - **Mean Absolute Error (MAE)** (lower is better)
