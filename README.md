@@ -14,14 +14,14 @@ The dataset contain the following features:
 - ZipEncoded
  Target Variable :
 - Price
-##🪄Data Preprocessing
+## 🪄Data Preprocessing
 The following preprocessing steps were performed:
 - Loaded the dataset
 - checked missing values
 - Dropped unnecsaary column 
 - Convert zip code into numerical coding
 - prepared data for machine learning models
-##🤖Machine learning Models
+## 🤖Machine learning Models
 The following regression models were trained and compared
 1. Linear Regression 
 2. K-Nearest Neighbors Regreesor
