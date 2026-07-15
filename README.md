@@ -35,9 +35,9 @@ Model are evaluated using:
 Example Comparison :
 | Model | R2 Score | MAE | MSE |
 | :--- | :--- | :--- | :--- |
-| **Linear Regression** | 1.0 | 1.6815546486112806e-10 | 4.6544032657206e-20 |
+| **Linear Regression** | 1.0 |  1.6815546486112806e-10 | 4.6544032657206e-20|
 | **KNeighborsRegressor** | 0.814778542975352 | 88607.28282828283 | 11957660395.657776 |
-| **Decision Tree** | 0.9987383931975284 | 5724.272727272727 | 81447721.76767677 |
+| **Decision Tree** | 0.9987383931975284      | 5724.272727272727 | 81447721.76767677 |
 | **Random Forest** | 0.9997590068269955 | 3109.3289898989847 | 15558211.056190899 |
 ## ✔️Best Model 
 Random Forest Regressor was selected as the final model because it provide the best performance
