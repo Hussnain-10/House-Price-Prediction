@@ -1,4 +1,4 @@
-# House Price Prediction 🏡
+# House Price Prediction🏡
 Predicting the house market price using the machine learning regression algotithum
 ##📍Project Overview
 The project is the analyze the house feature and build a model that can predict the price of a house
