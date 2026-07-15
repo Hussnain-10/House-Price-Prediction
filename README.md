@@ -33,11 +33,11 @@ Model are evaluated using:
 - MSE (Mean Squared Error)
 - MAE (Mean Absolute Error)
 Example Comparison :
-MODEL                               R2               |         MAE                              |              MSE
-Linear Regression                   1.0              |1.6815546486112806e-10                    | 4.6544032657206e-20
-KNeighborsRegressor           0.8147785429795352     |88607.28282828283                         | 11957660395.657776
-Decision Tree                 0.9987383931975284     |5724.272727272727                         | 81447721.76767677
-Random Forest                 0.9997590068269955     |3109.3289898989847                        | 15558211.056190899
+ModelR^2 ScoreMAEMSE
+Linear Regression1.01.68 \times 10^{-10}4.65 \times 10^{-20}
+K-Neighbors Regressor0.814888,607.281,195,766,039.66
+Decision Tree0.99875,724.2781,447,721.77
+Random Forest0.99983,109.3315,558,211.06
 
 
 ## ✔️Best Model 
