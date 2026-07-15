@@ -43,6 +43,6 @@ Random Forest                 0.9997590068269955     |3109.3289898989847        
 ## ✔️Best Model 
 Random Forest Regressor was selected as the final model because it provide the best performance
 
-** ⚠️Note:**
+**⚡️Note:**
 While linear Regression shows the R2=1.0  means the prefect score this typically due to data leakage or overfitted
 or another hand Random forest model is the best they are nearly to the one or mae or mse is the best to the another
