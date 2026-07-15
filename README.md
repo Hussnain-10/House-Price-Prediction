@@ -27,7 +27,7 @@ The following regression models were trained and compared
 2. K-Nearest Neighbors Regreesor
 3. Decision Tree Regressor 
 4. Random Forest Regressor
-## Model Evaluation 
+## 🔎Model Evaluation 
 Model are evaluated using:
 - R2 score 
 - MSE (Mean Squared Error)
@@ -40,7 +40,7 @@ Decision Tree                 0.9987383931975284     |5724.272727272727         
 Random Forest                 0.9997590068269955     |3109.3289898989847                        | 15558211.056190899
 
 
-##✔️Best Model 
+## ✔️Best Model 
 Random Forest Regressor was selected as the final model because it provide the best performance
 
 **⚠️Note:**
